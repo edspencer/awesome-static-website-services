@@ -57,7 +57,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
 - [frameit.dev](https://frameit.dev) — Generate OpenGraph images, YouTube thumbnails, title cards and banners in the browser
 
-
 ## Maps
 
 - [Google Maps](http://maps.google.com/) - Google maps are easily embeddable.
