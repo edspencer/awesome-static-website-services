@@ -55,6 +55,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
 - [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
+- [frameit.dev](https://frameit.dev) — Generate OpenGraph images, YouTube thumbnails, title cards and banners in the browser
+
 
 ## Maps
 
